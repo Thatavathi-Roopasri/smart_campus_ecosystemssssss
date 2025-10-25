@@ -1,4 +1,6 @@
-# KLH Smart Campus (Starter)
+# Smart Campus Ecosystem
+
+A full-stack web application for managing campus activities including events, feedbacks, lost & found items, and student voice.
 
 ## Run backend
 
